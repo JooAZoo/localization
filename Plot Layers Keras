@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import keras
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,7 +10,6 @@ from keras import backend as K
 from keras import objectives
 from keras.datasets import mnist
 from keras.layers.core import Reshape
-from __future__ import print_function
 import numpy as np
 from keras.datasets import mnist
 from keras.models import Sequential

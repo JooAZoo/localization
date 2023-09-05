@@ -1,6 +1,6 @@
 ### USE RESET TO START A BRAND NEW ENVIRONMENT EACH RUN (Variables will be cleared)
 
-%reset
+# %reset
 
 ### MADE WITH KERAS 1.1.0
 

@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 from gensim import utils
 from gensim.models.doc2vec import LabeledSentence
 from gensim.models import Doc2Vec
@@ -5,7 +7,6 @@ import numpy
 import numpy as np
 from random import shuffle
 from sklearn.linear_model import LogisticRegression
-from __future__ import print_function
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten, Highway

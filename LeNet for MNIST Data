@@ -1,4 +1,5 @@
 from __future__ import print_function
+
 import numpy as np
 np.random.seed(2000)
 from keras.datasets import mnist
